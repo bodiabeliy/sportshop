@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "image": "camp-1.jpg",
+      "name": "Rocks",
+      "price": 7800.0,
+      "article": "T1",
+      "available": true,
+      "category": "Oneseason"
+    },
+    {
+      "image": "camp-2.jpg",
+      "name": "Greenhouse",
+      "price": 3150.0,
+      "article": "T2",
+      "available": true,
+      "category": "Oneseason"
+    },
+    {
+      "image": "camp-3.jpg",
+      "name": "FishingPro",
+      "price": 4200.0,
+      "article": "T3",
+      "available": false,
+      "category": "Allseason"
+    },
+    {
+      "image": "camp-4.jpg",
+      "name": "PremierGold",
+      "price": 10300.0,
+      "article": "T4",
+      "available": true,
+      "category": "Allseason"
+    },
+    {
+      "image": "camp-5.jpg",
+      "name": "Forest",
+      "price": 6500.0,
+      "article": "T5",
+      "available": false,
+      "category": "Oneseason"
+    },
+    {
+      "image": "camp-6.jpg",
+      "name": "Orange",
+      "price": 3000.0,
+      "article": "T6",
+      "available": true,
+      "category": "Oneseason"
+    },
+    {
+      "image": "camp-7.jpg",
+      "name": "Hunter",
+      "price": 8700,
+      "article": "T7",
+      "available": true,
+      "category": "Allseason"
+    },
+    {
+      "image": "camp-8.jpg",
+      "name": "Hunter",
+      "price": 7500.0,
+      "article": "T8",
+      "available": true,
+      "category": "Allseason"
+    },
+    {
+      "image": "camp-9.jpg",
+      "name": "Forest",
+      "price": 5500.0,
+      "article": "T9",
+      "available": true,
+      "category": "Oneseason"
+    },
+    {
+      "image": "camp-10.jpg",
+      "name": "Jungle",
+      "price": 17550.0,
+      "article": "T10",
+      "available": true,
+      "category": "Allseason"
+    },
+    {
+      "image": "camp-11.jpg",
+      "name": "FishingPro",
+      "price": 1700.0,
+      "article": "T11",
+      "available": true,
+      "category": "Oneseason"
+    },
+    {
+      "image": "camp-12.jpg",
+      "name": "Bear",
+      "price": 9850.0,
+      "article": "T12",
+      "available": true,
+      "category": "Allseason"
+    },
+    {
+      "image": "camp-13.jpg",
+      "name": "Rocks",
+      "price": 24000.0,
+      "article": "T13",
+      "available": true,
+      "category": "AlLseason"
+    },
+    {
+      "image": "camp-14.jpg",
+      "name": "Rocks",
+      "price": 9000.0,
+      "article": "T14",
+      "available": true,
+      "category": "Oneseason"
+    },
+    {
+      "image": "camp-15.jpg",
+      "name": "PremierGold",
+      "price": 2750.0,
+      "article": "T15",
+      "available": true,
+      "category": "Oneseason"
+    }
+  ]
+}
